@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BarManagement.Application/BarManagement.Application.csproj" />
+  <Project Path="BarManagement.Domain/BarManagement.Domain.csproj" />
+  <Project Path="BarManagement.Infrastructure/BarManagement.Infrastructure.csproj" />
+  <Project Path="BarManagement/BarManagement.Api.csproj" />
+</Solution>

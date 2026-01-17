@@ -1,0 +1,6 @@
+@BarManagement_HostAddress = http://localhost:5291
+
+GET {{BarManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
